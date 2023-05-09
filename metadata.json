@@ -11,9 +11,7 @@
     "Input": [
         "Compound"
     ],
-    "Input Shape": [
-        "Single"
-    ],
+    "Input Shape": "Single",
     "Output": [
         "Score"
     ],
